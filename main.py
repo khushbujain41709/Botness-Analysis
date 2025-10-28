@@ -373,7 +373,7 @@ elif app_mode == "Bot Detection":
     }
     </style>
     """, unsafe_allow_html=True)
-    st.image("Loki_TVA_Still_Main_On_End_02.jpg", use_container_width=True)
+    st.image("Loki_TVA.jpg", use_container_width=True)
     input_text = st.text_area(
         "Enter text to analyze:", 
         placeholder="Paste or type any text content here (social media posts, messages, profiles, etc.)...",
