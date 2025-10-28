@@ -117,7 +117,7 @@ if app_mode == "Home":
         </style>
     """, unsafe_allow_html=True)
     st.header("Bot vs Human Detection System")
-    st.image("botImage3.png", use_container_width=False)
+    st.image("botImageHome.png", use_container_width=False)
     st.markdown("""
     Welcome to the **Bot vs Human Detection System!**  
     Our mission is to help identify automated bot accounts and distinguish them from genuine human users.  
