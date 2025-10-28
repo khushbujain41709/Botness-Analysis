@@ -112,8 +112,3 @@ Special thanks to:
 - **XGBoost** and **Scikit-learn** for enabling robust ML capabilities.  
 
 ---
-
-## ⭐ Show Your Support
-
-If you liked this project, give it a star on GitHub to support!  
----
