@@ -1,0 +1,251 @@
+text,label
+"Excited to start my new job today! Feeling grateful for all the support ❤️",human
+"Had an amazing day with friends at the park!",human
+"Working late tonight, coffee is my best friend ☕",human
+"Just finished reading an incredible book, highly recommend it!",human
+"Beautiful sunset tonight 🌅 nature always knows how to amaze me",human
+"Cooked my favorite meal today, turned out perfect! 🍝",human
+"Missing my family today, can't wait to visit them soon",human
+"Completed my morning run feeling energized and ready for the day",human
+"Proud of my team for finishing the project ahead of schedule!",human
+"Enjoying a quiet weekend with my favorite music and books",human
+"auto_news_update tech_trends daily_automation post_scheduler",content_bot
+"breaking_news daily_digest ai_insights trending_topics",content_bot
+"weather_update traffic_alert news_brief automated_report",content_bot
+"sports_highlights score_update game_recap team_news",content_bot
+"crypto_update market_news blockchain_trends defi_insights",content_bot
+"financial_digest stock_alert economic_indicators market_trends",content_bot
+"entertainment_news celebrity_updates movie_reviews tv_highlights",content_bot
+"health_tips fitness_advice wellness_updates medical_news",content_bot
+"tech_review gadget_news software_update app_launch",content_bot
+"travel_deals destination_guides flight_alerts hotel_offers",content_bot
+"follow_back_please get_followers fast_boost unlimited_likes",follower_bot
+"follow_me follow4follow insta_growth socialboost",follower_bot
+"gain_followers quick followers_boost social_media_growth",follower_bot
+"auto_follow back followers_package viral_trend",follower_bot
+"instagram_growth twitter_followers tiktok_views youtube_subs",follower_bot
+"social_media_marketing influencer_tools audience_growth",follower_bot
+"follower_increase engagement_boost profile_views",follower_bot
+"trending_account viral_content go_viral",follower_bot
+"follow_train follow_chain growth_hacking",follower_bot
+"social_ranking popularity_score influencer_status",follower_bot
+"click_here free_offer visit_link now hurry_up discount_deal",spam_bot
+"win_prize register_now claim_bonus special_offer",spam_bot
+"limited_time exclusive_deal act_fast last_chance",spam_bot
+"make_money fast_cash easy_income work_from_home",spam_bot
+"weight_loss miracle_cure instant_results secret_formula",spam_bot
+"free_gift no_cost bonus_reward premium_access",spam_bot
+"urgent_alert important_notice immediate_action required",spam_bot
+"investment_opportunity high_returns low_risk",spam_bot
+"congratulations_you_won prize_claim lottery_winner",spam_bot
+"unsubscribe_offer membership_deal subscription_bonus",spam_bot
+"how_can_i_help support_assist customer_service automated_help",customer_service_bot
+"faq_answer common_questions help_center support_bot",customer_service_bot
+"order_tracking shipping_update delivery_status package_info",customer_service_bot
+"account_assist password_reset login_help security_verify",customer_service_bot
+"billing_help payment_issue refund_request invoice_query",customer_service_bot
+"technical_support error_fix troubleshooting system_check",customer_service_bot
+"product_info feature_explain how_to_use setup_guide",customer_service_bot
+"service_status outage_report maintenance_update system_alert",customer_service_bot
+"feedback_collection survey_request rating_prompt review_ask",customer_service_bot
+"appointment_setting booking_confirmation schedule_manage",customer_service_bot
+"Just got promoted at work! So grateful for this opportunity 🎉",human
+"Spent the afternoon hiking with my dog, perfect weather!",human
+"Trying out a new recipe tonight, wish me luck! 👨‍🍳",human
+"Can't believe it's already Friday! This week flew by",human
+"Visited the art museum today, so many inspiring pieces",human
+"Finally finished that difficult project, time to celebrate!",human
+"My garden is blooming beautifully this spring 🌸",human
+"Learning to play guitar, my fingers are sore but it's worth it",human
+"Reconnected with old friends today, such a wonderful time",human
+"Watching my favorite movie with popcorn and cozy blankets",human
+"political_analysis election_coverage policy_update gov_news",content_bot
+"science_discovery research_update innovation_news tech_breakthrough",content_bot
+"education_tips learning_resources study_techniques course_alert",content_bot
+"real_estate_update property_listings market_analysis home_tips",content_bot
+"automotive_news car_reviews vehicle_recall driving_tips",content_bot
+"fashion_trends style_advice collection_launch designer_news",content_bot
+"food_recipes cooking_tips restaurant_reviews nutrition_facts",content_bot
+"gaming_news esports_update game_release player_stats",content_bot
+"environment_news climate_update sustainability_tips eco_alert",content_bot
+"business_news startup_spotlight entrepreneurship_tips",content_bot
+"increase_followers social_presence digital_footprint",follower_bot
+"profile_optimization engagement_tips visibility_boost",follower_bot
+"algorithm_tips trending_strategy content_virality",follower_bot
+"influencer_collab brand_partnership sponsored_content",follower_bot
+"social_metrics analytics_track performance_insights",follower_bot
+"content_calendar posting_schedule optimal_timing",follower_bot
+"hashtag_strategy discoverability_reach audience_targeting",follower_bot
+"social_listening brand_mentions reputation_manage",follower_bot
+"community_building group_growth member_engagement",follower_bot
+"platform_algorithm update_news feature_rollout",follower_bot
+"secret_method proven_system guaranteed_results",spam_bot
+"exposed_secret hidden_truth revealed_method",spam_bot
+"double_your_money triple_income financial_freedom",spam_bot
+"doctors_hate_this one_trick amazing_discovery",spam_bot
+"risk_free trial_offer satisfaction_guaranteed",spam_bot
+"exclusive_access vip_member premium_content",spam_bot
+"system_flaw loophole_exploit method_revealed",spam_bot
+"banned_technique forbidden_knowledge secret_info",spam_bot
+"instant_approval no_credit_check easy_qualification",spam_bot
+"limited_supplies selling_fast almost_gone",spam_bot
+"welcome_message greeting_text assistance_available",customer_service_bot
+"ticket_created case_reference support_team_notified",customer_service_bot
+"service_rating feedback_thanks improvement_commitment",customer_service_bot
+"knowledge_base article_suggested help_resources",customer_service_bot
+"escalation_notice specialist_assigned priority_support",customer_service_bot
+"resolution_confirmation issue_resolved case_closed",customer_service_bot
+"follow_up_message check_in inquiry_followup",customer_service_bot
+"policy_explanation terms_clarification guideline_info",customer_service_bot
+"service_reminder maintenance_scheduled update_notice",customer_service_bot
+"training_resources tutorial_access learning_materials",customer_service_bot
+"Just adopted the sweetest puppy from the shelter! Meet Bailey 🐶",human
+"Finished my first marathon today - never been more proud and exhausted! 🏃‍♂️",human
+"Baking sourdough bread for the first time, hope it turns out well! 🍞",human
+"Surprised my parents with a visit today, their smiles were priceless ❤️",human
+"Finally seeing my favorite band live tonight after years of waiting! 🎸",human
+"Spent the whole day organizing my bookshelf - so satisfying! 📚",human
+"Learning Italian for my trip to Rome next month, ciao bella! 🇮🇹",human
+"Built my first piece of furniture from scratch, only minor injuries! 🔨",human
+"Morning meditation by the lake, so peaceful and grounding 🌄",human
+"Reunited with college friends after 5 years, like no time passed at all!",human
+"local_news_alert community_update event_notice public_service",content_bot
+"job_postings career_opportunities hiring_alert employment_news",content_bot
+"real_estate_listings property_alert market_analysis housing_data",content_bot
+"fitness_motivation workout_routines health_tips exercise_guides",content_bot
+"parenting_advice child_development family_activities education_tips",content_bot
+"pet_care_advice animal_health training_tips veterinary_updates",content_bot
+"home_improvement diy_projects renovation_tips decor_ideas",content_bot
+"photography_tips camera_reviews editing_techniques photo_challenges",content_bot
+"book_recommendations literary_news author_interviews reading_lists",content_bot
+"music_releases artist_news concert_alerts playlist_curation",content_bot
+"instant_followers social_media_promotion profile_boost",follower_bot
+"follower_growth_service audience_expansion trending_help",follower_bot
+"social_media_manager auto_posting content_scheduling",follower_bot
+"influencer_marketing brand_collaborations sponsored_posts",follower_bot
+"hashtag_generator trending_topics viral_content_creator",follower_bot
+"social_analytics engagement_tracker performance_metrics",follower_bot
+"verified_account_application blue_badge_seeker",follower_bot
+"cross_promotion network_building community_engagement",follower_bot
+"content_creation_tools post_optimization visual_enhancement",follower_bot
+"social_media_courses digital_marketing_training online_workshops",follower_bot
+"claim_free_iphone limited_supply exclusive_opportunity",spam_bot
+"work_from_home_earnings passive_income_system financial_independence",spam_bot
+"miracle_supplement health_breakthrough weightloss_secret",spam_bot
+"crypto_investment_opportunity bitcoin_bonus blockchain_rewards",spam_bot
+"free_webinar_exclusive_training masterclass_registration",spam_bot
+"government_grants_unclaimed_money financial_assistance",spam_bot
+"dating_profile_boost romance_guaranteed relationship_success",spam_bot
+"psychic_reading_future_prediction fortune_telling_offer",spam_bot
+"luxury_car_contest dream_vacation_giveaway prize_draw",spam_bot
+"credit_repair_services debt_elimination_fast_approval",spam_bot
+"order_confirmation shipping_details delivery_tracking",customer_service_bot
+"account_verification security_check identity_confirmation",customer_service_bot
+"payment_processing transaction_complete receipt_sent",customer_service_bot
+"technical_issue_diagnosis system_analysis problem_detection",customer_service_bot
+"refund_processing return_authorization money_back",customer_service_bot
+"product_availability stock_notification restock_alert",customer_service_bot
+"service_subscription renewal_notice billing_cycle",customer_service_bot
+"feature_announcement product_update new_release",customer_service_bot
+"survey_invitation feedback_request experience_rating",customer_service_bot
+"maintenance_notice downtime_scheduled system_update",customer_service_bot
+"Celebrating 10 years with my partner today! Love grows stronger every year 💕",human
+"Started learning pottery and made my first wobbly mug today! 🏺",human
+"Watching the meteor shower tonight, universe puts on the best shows 🌠",human
+"Helped my neighbor fix their fence today, good deeds feel good! 👷",human
+"Discovered an amazing little coffee shop downtown, new favorite spot! ☕",human
+"Teaching my grandma how to video call, technology bridging generations 📱",human
+"Finished planting my vegetable garden, can't wait for harvest time! 🥕",human
+"Unexpected day off turned into the best spontaneous adventure! 🗺️",human
+"Found my childhood diary, equal parts cringe and nostalgia! 📔",human
+"Morning yoga session with sunrise views, perfect start to the day! 🧘‍♀️",human
+"environmental_news sustainability_updates eco_friendly_tips",content_bot
+"technology_reviews gadget_comparisons tech_specs_analysis",content_bot
+"art_spotlight creative_showcase artist_features",content_bot
+"volunteer_opportunities charity_events community_service",content_bot
+"mental_health_resources wellness_support self_care_tips",content_bot
+"budgeting_advice financial_planning money_management",content_bot
+"travel_recommendations destination_guides trip_planning",content_bot
+"science_news research_breakthroughs discovery_updates",content_bot
+"cultural_events festival_announcements exhibition_openings",content_bot
+"agriculture_updates farming_techniques harvest_reports",content_bot
+"social_media_automation bot_services auto_engagement",follower_bot
+"profile_verification badge_services authenticity_markers",follower_bot
+"content_distribution cross_platform_posting sync_services",follower_bot
+"influencer_networking partnership_opportunities collab_matching",follower_bot
+"social_listening_tools sentiment_analysis brand_monitoring",follower_bot
+"competitor_tracking industry_benchmarks performance_comparison",follower_bot
+"social_advertising targeted_campaigns audience_retargeting",follower_bot
+"content_curation automated_sharing aggregation_services",follower_bot
+"social_commerce shop_integration product_tagging",follower_bot
+"video_optimization thumbnail_services engagement_boosting",follower_bot
+"secret_investment_strategy stock_market_insider",spam_bot
+"free_trial_conversion premium_upgrade_offer",spam_bot
+"celebrity_endorsement_fake famous_person_approval",spam_bot
+"lottery_winnings_notification prize_distribution_alert",spam_bot
+"inheritance_claim_unexpected_relative estate_settlement",spam_bot
+"tax_refund_alert government_payment_available",spam_bot
+"miracle_skincare_products anti_aging_breakthrough",spam_bot
+"real_estate_secrets property_flipping_profits",spam_bot
+"online_course_discount limited_time_enrollment",spam_bot
+"supplement_offer fitness_transformation_guarantee",spam_bot
+"warranty_expiration_alert protection_plan_renewal",customer_service_bot
+"loyalty_rewards_points bonus_balance_update",customer_service_bot
+"security_alert suspicious_activity_detected",customer_service_bot
+"policy_update terms_of_service_change",customer_service_bot
+"appointment_reminder scheduled_session_confirmation",customer_service_bot
+"document_verification paperwork_completion_request",customer_service_bot
+"service_quality_review performance_evaluation",customer_service_bot
+"training_session_offer skill_development_opportunity",customer_service_bot
+"community_guidelines_reminder platform_rules_update",customer_service_bot
+"accessibility_features update_assistance_tools",customer_service_bot
+"Survived my first camping trip! Bears didn't get us, success! ⛺",human
+"Learned how to make proper espresso at home, game changer! ☕",human
+"Found my old high school yearbook, the hairstyles were... a choice 😂",human
+"Helping my daughter with her science project, learning together! 🔬",human
+"Spontaneous road trip to the coast, ocean air healing my soul 🌊",human
+"Mastered my grandmother's famous cookie recipe, family tradition lives on! 🍪",human
+"Joined a local hiking group, met amazing new people today! 🥾",human
+"Finally cleaned out my garage, found treasures I forgot I had! 🏠",human
+"Attended my first cooking class, made amazing pasta from scratch! 🍝",human
+"Sunday morning with crossword puzzles and tea, perfect relaxation 📖",human
+"local_weather_alerts climate_updates seasonal_preparations",content_bot
+"automotive_recalls vehicle_safety maintenance_tips",content_bot
+"educational_resources online_learning platform_reviews",content_bot
+"small_business_spotlight entrepreneur_interviews startup_advice",content_bot
+"outdoor_adventure_tips hiking_trails camping_equipment",content_bot
+"home_security_systems safety_protocols emergency_preparedness",content_bot
+"craft_ideas handmade_projects creative_techniques",content_bot
+"nutrition_facts dietary_guidelines meal_planning",content_bot
+"public_transport_updates route_changes schedule_adjustments",content_bot
+"wildlife_conservation animal_rescue ecological_balance",content_bot
+"social_media_audit profile_analysis improvement_recommendations",follower_bot
+"influencer_rating popularity_score engagement_metrics",follower_bot
+"content_calendar_planner scheduling_optimization timing_algorithms",follower_bot
+"follower_purification fake_account_removal authenticity_verification",follower_bot
+"social_media_arbitrage advertising_profits monetization_strategies",follower_bot
+"platform_migration account_transfer content_backup",follower_bot
+"social_recognition_services award_nominations achievement_badges",follower_bot
+"voice_optimization audio_content_enhancement podcast_boost",follower_bot
+"live_stream_services broadcast_equipment interactive_tools",follower_bot
+"social_compliance regulatory_updates platform_guidelines",follower_bot
+"time_sensitive_offer expiration_countdown urgent_action",spam_bot
+"personalized_invitation exclusive_membership_opportunity",spam_bot
+"revolutionary_technology groundbreaking_innovation_launch",spam_bot
+"ancient_remedy traditional_healing_secret_revealed",spam_bot
+"corporate_whistleblower industry_secrets_exposed",spam_bot
+"celebrity_diet_fitness_routine famous_person_secret",spam_bot
+"underground_method unconventional_approach_success",spam_bot
+"classified_information_leaked confidential_documents",spam_bot
+"pyramid_scheme_disguised multi_level_marketing_opportunity",spam_bot
+"religious_miracle_offer spiritual_healing_guaranteed",spam_bot
+"data_backup_completion information_protection_confirmed",customer_service_bot
+"service_continuity_planning uninterrupted_access_guarantee",customer_service_bot
+"multi_factor_authentication security_enhancement_setup",customer_service_bot
+"service_degradation_notice performance_issue_acknowledgment",customer_service_bot
+"proactive_maintenance system_optimization_underway",customer_service_bot
+"customer_satisfaction_survey service_improvement_initiative",customer_service_bot
+"educational_webinar_training skill_enhancement_session",customer_service_bot
+"partnership_announcement collaborative_service_expansion",customer_service_bot
+"infrastructure_upgrade system_modernization_project",customer_service_bot
+"compliance_certification regulatory_standard_achievement",customer_service_bot
